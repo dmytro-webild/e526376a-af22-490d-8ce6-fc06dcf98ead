@@ -62,45 +62,45 @@ export default function LandingPage() {
       description="Desfrute do melhor da culinária local em um ambiente paradisíaco. Telvina Beach Lodge: onde cada refeição é uma experiência inesquecível."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png?_wi=1",
           imageAlt: "Ambiente paradisíaco",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png?_wi=1",
           imageAlt: "Vista da praia",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png?_wi=1",
           imageAlt: "Detalhe lodge",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png?_wi=1",
           imageAlt: "Ambiente externo",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg?_wi=1",
           imageAlt: "Refeição premium",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png?_wi=2",
           imageAlt: "Prato de caranguejo",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png?_wi=2",
           imageAlt: "Detalhe culinário",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png?_wi=2",
           imageAlt: "Gastronomia premium",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png?_wi=2",
           imageAlt: "Serviço profissional",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg?_wi=2",
           imageAlt: "Prato tradicional",
         },
       ]}
@@ -187,13 +187,13 @@ export default function LandingPage() {
           icon: Fish,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-q57d0vcq.png?_wi=3",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-odjwk1xl.png?_wi=3",
             },
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080345-jqecr4f7.png?_wi=3",
           imageAlt: "User provided image",
         },
         {
@@ -202,13 +202,13 @@ export default function LandingPage() {
           icon: Sun,
           mediaItems: [
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DThW1ChEaxahFhJ6zkGArnPknY/uploaded-1778312080346-0kc9p27v.png?_wi=3",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg?_wi=3",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/plate-shrimp-caesar-salad-restaurant-terrace_140725-4914.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plate-shrimp-caesar-salad-restaurant-terrace_140725-4914.jpg?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -217,13 +217,13 @@ export default function LandingPage() {
           icon: Award,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/mediterranean-food-smoked-herring-fish-served-with-green-onion-lemon-cherry-tomatoes-spices-bread-tahini-sauce-dark-top-view-with-close-up_114579-28.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/mediterranean-food-smoked-herring-fish-served-with-green-onion-lemon-cherry-tomatoes-spices-bread-tahini-sauce-dark-top-view-with-close-up_114579-28.jpg?_wi=1",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/steamed-mussel-with-white-wine-sauce_74190-911.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/steamed-mussel-with-white-wine-sauce_74190-911.jpg?_wi=1",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/uncooked-meat-piece-with-vegetables-blue-table-o-oil-tomato-paste_114579-14703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/uncooked-meat-piece-with-vegetables-blue-table-o-oil-tomato-paste_114579-14703.jpg?_wi=1",
           imageAlt: "User provided image",
         },
       ]}
@@ -246,7 +246,7 @@ export default function LandingPage() {
           price: "1200 MZN",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brazilian-food-plate_23-2148875210.jpg?_wi=4",
         },
         {
           id: "p2",
@@ -255,7 +255,7 @@ export default function LandingPage() {
           price: "950 MZN",
           rating: 5,
           reviewCount: "89",
-          imageSrc: "http://img.b2bpic.net/free-photo/plate-shrimp-caesar-salad-restaurant-terrace_140725-4914.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plate-shrimp-caesar-salad-restaurant-terrace_140725-4914.jpg?_wi=2",
         },
         {
           id: "p3",
@@ -264,7 +264,7 @@ export default function LandingPage() {
           price: "2500 MZN",
           rating: 5,
           reviewCount: "210",
-          imageSrc: "http://img.b2bpic.net/free-photo/mediterranean-food-smoked-herring-fish-served-with-green-onion-lemon-cherry-tomatoes-spices-bread-tahini-sauce-dark-top-view-with-close-up_114579-28.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mediterranean-food-smoked-herring-fish-served-with-green-onion-lemon-cherry-tomatoes-spices-bread-tahini-sauce-dark-top-view-with-close-up_114579-28.jpg?_wi=2",
         },
         {
           id: "p4",
@@ -273,7 +273,7 @@ export default function LandingPage() {
           price: "1500 MZN",
           rating: 4,
           reviewCount: "56",
-          imageSrc: "http://img.b2bpic.net/free-photo/steamed-mussel-with-white-wine-sauce_74190-911.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/steamed-mussel-with-white-wine-sauce_74190-911.jpg?_wi=2",
         },
         {
           id: "p5",
@@ -282,7 +282,7 @@ export default function LandingPage() {
           price: "3200 MZN",
           rating: 5,
           reviewCount: "45",
-          imageSrc: "http://img.b2bpic.net/free-photo/uncooked-meat-piece-with-vegetables-blue-table-o-oil-tomato-paste_114579-14703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/uncooked-meat-piece-with-vegetables-blue-table-o-oil-tomato-paste_114579-14703.jpg?_wi=2",
         },
         {
           id: "p6",
