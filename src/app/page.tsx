@@ -79,7 +79,7 @@ export default function LandingPage() {
         {
           text: "Ligar Agora",          href: "tel:+258000000000"},
         {
-          text: "Solicitar Orçamento",          href: "#contact"},
+          text: "Reservar sua Mesa",          href: "#contact"},
       ]}
       avatars={[
         {
